@@ -1,0 +1,2 @@
+Typing speed ar link
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.0/typed.min.js"></script>

@@ -1,0 +1,24 @@
+@media screen and (max-width:1024px) {
+    .container{
+        width: var(--container-width-md);
+    }
+    nav button{
+        display: inline-block;
+        background-color: transparent;
+        color: #fff;
+        font-size: 1.8rem;
+        cursor: pointer;
+    }
+    nav button#close-menu-btn{
+        display: none;
+    }
+    .nav_menu{
+        gap: 0;
+       position: fixed;
+       top: 5rem;
+       height: fit-content;
+       width: 18rem;
+       flex-direction: column;
+       display: none;
+    }
+}
